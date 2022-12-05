@@ -71,14 +71,17 @@ All the data got stored in and called from <b>JSON Server</b>.
 <img src="https://miro.medium.com/max/1100/1*rBq2iiLPCv5o3b5QHUoAbg.webp"/>
 
 <p>Product Description page</p>
-<img src="https://cdn-images-1.medium.com/max/900/1*94UycX52FHtwQEbxJc-scw.png"/>
+<img src="https://miro.medium.com/max/1100/1*3FaTA6kGH8wlE08f8_BeVQ.webp"/>
 
 <p>The cart page</p>
-<img src="https://cdn-images-1.medium.com/max/1200/1*0VANn46S8m5OnpLMRwKf1g.png"/>
+<img src="https://miro.medium.com/max/1100/1*HX7btt9ieMIpweVMOVZPWw.webp"/>
 
 <p>The Payment Gateway page</p>
-<img src="https://cdn-images-1.medium.com/max/600/1*fNUM5mUYzTzKXTBkok87WQ.png"/>
-
+<img src="https://miro.medium.com/max/1100/1*gNrATdYuV6xUVJZfXM7V_A.webp"/>
+  
+<p>Sign In page</p>
+<img src="https://miro.medium.com/max/1100/1*qIOFdM6ec61xDPEDk7hakQ.webp"/>
+  
 ## Please do check out our E-COMMERCE WEB APPLICATION !
 
 <h2>Contact</h2>
