@@ -1,6 +1,6 @@
 # Clone of Theory.com  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;    &nbsp;   &nbsp;   &nbsp;   &nbsp;    <img src="https://www.theory.com/on/demandware.static/Sites-theory2_US-Site/-/default/dwe2f8eb1f/images/favicons/favicon2.ico"/> 
 
-In this project we have tried to make a clone of <a href="https://www.theory.com" target="_blank">Theory Website</a>. With our efforts and the technology stack,we were able to clone the front end, integrated it with backend and added similar looks and features.
+The goal of this project was to create a responsive E-commerce web application used for a user where the customer can buy a product.
 
 <div style='page-break-after: always'></div>
 
@@ -11,9 +11,9 @@ In this project we have tried to make a clone of <a href="https://www.theory.com
 http://ec2-13-127-17-86.ap-south-1.compute.amazonaws.com:5000/
  ``` -->
 
-Deployed with Herokuapp 
+Deployed with Vercel 
 ```
-https://backend-theory.herokuapp.com/
+[https://backend-theory.herokuapp.com/](https://e-commerce-two-psi.vercel.app/)
  ```
 
 ### <u>Run Locally</u>
