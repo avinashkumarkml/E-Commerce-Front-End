@@ -13,7 +13,7 @@ http://ec2-13-127-17-86.ap-south-1.compute.amazonaws.com:5000/
 
 Deployed with Vercel 
 ```
-[https://e-commerce-two-psi.vercel.app/](https://e-commerce-two-psi.vercel.app/)
+[https://e-commerce-two-psi.vercel.app/]
  ```
 
 ### <u>Run Locally</u>
