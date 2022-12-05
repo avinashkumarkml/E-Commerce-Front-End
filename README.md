@@ -12,17 +12,6 @@ The goal of this project was to create a responsive E-commerce web application u
 
 <br />
 
-<h2>Contact</h2>
-
-If you want to contact me, you can reach me through below handle.
-
-[![linkedin](https://img.shields.io/badge/Manish-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-reddy-76063a222/)
-
-Deployed with Vercel 
-```
-[https://e-commerce-two-psi.vercel.app/]
- ```
-
 ### <u>Run Locally</u>
 
 Clone the project
@@ -74,6 +63,10 @@ All the data got stored in and called from <b>JSON Server</b>.
 - Payment Integration
 - Order Confirmation
 
-### <u>You can read more about our project on our blog : <a href="https://shuklabhisekh.medium.com/clone-of-theory-com-including-frontend-backend-6db940b42d23" target="_blank">Clone of Theory.com</a> </u>
+<h2>Contact</h2>
+
+If you want to contact me, you can reach me through below handle.
+
+[![linkedin](https://img.shields.io/badge/Manish-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-reddy-76063a222/)
 
 # Thank You :sparkling_heart:
