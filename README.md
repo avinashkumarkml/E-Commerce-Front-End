@@ -68,7 +68,7 @@ All the data got stored in and called from <b>JSON Server</b>.
 <img src="https://miro.medium.com/max/1100/1*r8_n9TLtommCfwfzy8LlMQ.webp"/>
 
 <p>Product page</p>
-<img src="https://cdn-images-1.medium.com/max/900/1*sIg_nFkNUFMojZY7TarQmQ.png"/>
+<img src="https://miro.medium.com/max/1100/1*rBq2iiLPCv5o3b5QHUoAbg.webp"/>
 
 <p>Product Description page</p>
 <img src="https://cdn-images-1.medium.com/max/900/1*94UycX52FHtwQEbxJc-scw.png"/>
