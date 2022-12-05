@@ -10,18 +10,6 @@ The goal of this project was to create a responsive E-commerce web application u
 <a target="blank" href="https://weather-app-reactxcxs.netlify.app/">Deployed Link</a>
 </p>
 
-## Glimpses of website :
-
-
-<table>
-   <tr>
-    <td><h4>Landing page</h4><img src="https://cdn-images-1.medium.com/max/1000/1*SI3dyyX49wVsjWRaMosPFg.png" /></td>
-   
-  </tr>
-  
-</table>
-
-
 <br />
 
 <h2>Contact</h2>
