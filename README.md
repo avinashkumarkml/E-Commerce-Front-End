@@ -1,6 +1,6 @@
 # E-COMMERCE WEB APPLICATION  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;    &nbsp;   &nbsp;   &nbsp;   &nbsp;   
 
-The goal of this project was to create a responsive E-commerce web application used for a user where the customer can buy a product.
+<h2>The goal of this project was to create a responsive E-commerce web application used for a user where the customer can buy a product.</h3>
 
 <div style='page-break-after: always'></div>
 
