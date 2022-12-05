@@ -62,6 +62,24 @@ All the data got stored in and called from <b>JSON Server</b>.
 - Sorting
 - Payment Integration
 - Order Confirmation
+  
+  ## Some Snapshots
+<p>Landing page</p>
+<img src="https://cdn-images-1.medium.com/max/900/1*_FZsgxmNmiz-HNaGdUAiCg.png"/>
+
+<p>Product page</p>
+<img src="https://cdn-images-1.medium.com/max/900/1*sIg_nFkNUFMojZY7TarQmQ.png"/>
+
+<p>Product Description page</p>
+<img src="https://cdn-images-1.medium.com/max/900/1*94UycX52FHtwQEbxJc-scw.png"/>
+
+<p>The cart page</p>
+<img src="https://cdn-images-1.medium.com/max/1200/1*0VANn46S8m5OnpLMRwKf1g.png"/>
+
+<p>The Payment Gateway page</p>
+<img src="https://cdn-images-1.medium.com/max/600/1*fNUM5mUYzTzKXTBkok87WQ.png"/>
+
+## Please do check out our Cloned Nike Website !
 
 <h2>Contact</h2>
 
