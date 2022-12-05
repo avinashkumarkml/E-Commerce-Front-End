@@ -7,7 +7,7 @@
 <h3 align="center" > Want to see live preview >><h3>
 <p align="center">
 <br />
-<a target="blank" href="https://weather-app-reactxcxs.netlify.app/">Deployed Link</a>
+<a target="blank" href="https://e-commerce-two-psi.vercel.app/">Deployed Link</a>
 </p>
 
 <br />
