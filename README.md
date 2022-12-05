@@ -1,70 +1,111 @@
-# Getting Started with Create React App
+# Clone of Theory.com  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;    &nbsp;   &nbsp;   &nbsp;   &nbsp;    <img src="https://www.theory.com/on/demandware.static/Sites-theory2_US-Site/-/default/dwe2f8eb1f/images/favicons/favicon2.ico"/> 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this project we have tried to make a clone of <a href="https://www.theory.com" target="_blank">Theory Website</a>. With our efforts and the technology stack,we were able to clone the front end, integrated it with backend and added similar looks and features.
 
-## Available Scripts
+<div style='page-break-after: always'></div>
 
-In the project directory, you can run:
+### <u>Deployed Link</u>
 
-### `npm start`
+<!-- Deployed with AWS 
+``` 
+http://ec2-13-127-17-86.ap-south-1.compute.amazonaws.com:5000/
+ ``` -->
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Deployed with Herokuapp 
+```
+https://backend-theory.herokuapp.com/
+ ```
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### <u>Run Locally</u>
 
-### `npm test`
+Clone the project
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```
+git clone https://github.com/shuklabhisekh/Backened_Of_Theory_Clone.git
+```
 
-### `npm run build`
+Install npm packages
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```
+npm install
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Run the surver
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+npm run server
+```
 
-### `npm run eject`
+View in Browser
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```
+go to http://localhost:5000
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<div style='page-break-after: always'></div>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### <u>Technologies we used</u>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- CSS
+- JavaScript
+- MongoDB
+- NodeJS
+- Express
+- EJS
 
-## Learn More
+All the data got stored in and called from <b>Mongo Atlas cloud database</b>.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<div style='page-break-after: always'></div>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### <u>Functionalities</u>
 
-### Code Splitting
+- Authentication
+- Login Confirmation
+- Search Functionality
+- Sorting
+- Payment Integration
+- Order Confirmation
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<div style='page-break-after: always'></div>
 
-### Analyzing the Bundle Size
+### <u>A short clip which will give Project Overview</u>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+https://user-images.githubusercontent.com/69167064/159704945-bf973452-6b14-444c-b4fb-513ed6a4a639.mp4
 
-### Making a Progressive Web App
+<div style='page-break-after: always'></div>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### <u>Credits :</u>
 
-### Advanced Configuration
+<b>Abhishek Shukla</b>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+> <a href="https://github.com/shuklabhisekh" target="_blank">Github</a>
 
-### Deployment
+> <a href="https://www.linkedin.com/in/shuklabhisekh/" target="_blank">Linkedin</a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+<b>Ashiq Khan</b>
 
-### `npm run build` fails to minify
+> <a href="https://github.com/ashiq352" target="_blank">Github</a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+> <a href="https://www.linkedin.com/in/ashiq-khan-412709222" target="_blank">Linkedin</a>
+
+<b>Sanket Thombre</b>
+
+> <a href="https://github.com/sanket008" target="_blank">Github</a>
+
+> <a href="https://www.linkedin.com/in/sanket-thombre-13632b114" target="_blank">Linkedin</a>
+
+<b>Shilpa Shingnapure</b>
+
+> <a href="https://github.com/shilpashingnapure" target="_blank">Github</a>
+
+> <a href="https://www.linkedin.com/in/shilpa-shingnapure-134b4320a/" target="_blank">Linkedin</a>
+
+<b>Vikram sharma</b>
+
+> <a href="https://github.com/vikram-sharma1" target="_blank">Github</a>
+
+> <a href="https://www.linkedin.com/in/vikram--sharma/" target="_blank">Linkedin</a>
+
+### <u>You can read more about our project on our blog : <a href="https://shuklabhisekh.medium.com/clone-of-theory-com-including-frontend-backend-6db940b42d23" target="_blank">Clone of Theory.com</a> </u>
+
+# Thank You :sparkling_heart:
