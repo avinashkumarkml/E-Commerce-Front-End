@@ -65,3 +65,7 @@ All the data got stored in and called from <b>Mongo Atlas cloud database</b>.
 - Sorting
 - Payment Integration
 - Order Confirmation
+
+### <u>You can read more about our project on our blog : <a href="https://shuklabhisekh.medium.com/clone-of-theory-com-including-frontend-backend-6db940b42d23" target="_blank">Clone of Theory.com</a> </u>
+
+# Thank You :sparkling_heart:
