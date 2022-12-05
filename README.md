@@ -1,4 +1,4 @@
-# Clone of Theory.com  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;    &nbsp;   &nbsp;   &nbsp;   &nbsp;    <img src="https://www.theory.com/on/demandware.static/Sites-theory2_US-Site/-/default/dwe2f8eb1f/images/favicons/favicon2.ico"/> 
+# E-COMMERCE WEB APPLICATION  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;    &nbsp;   &nbsp;   &nbsp;   &nbsp;    <img src="https://www.theory.com/on/demandware.static/Sites-theory2_US-Site/-/default/dwe2f8eb1f/images/favicons/favicon2.ico"/> 
 
 The goal of this project was to create a responsive E-commerce web application used for a user where the customer can buy a product.
 
@@ -13,7 +13,7 @@ http://ec2-13-127-17-86.ap-south-1.compute.amazonaws.com:5000/
 
 Deployed with Vercel 
 ```
-[https://backend-theory.herokuapp.com/](https://e-commerce-two-psi.vercel.app/)
+[https://e-commerce-two-psi.vercel.app/](https://e-commerce-two-psi.vercel.app/)
  ```
 
 ### <u>Run Locally</u>
@@ -21,7 +21,7 @@ Deployed with Vercel
 Clone the project
 
 ```
-git clone https://github.com/shuklabhisekh/Backened_Of_Theory_Clone.git
+git clone https://github.com/avinashkumarkml/E-Commerce-Front-End.git
 ```
 
 Install npm packages
@@ -33,27 +33,28 @@ npm install
 Run the surver
 
 ```
-npm run server
+npm start
 ```
 
 View in Browser
 
 ```
-go to http://localhost:5000
+go to http://localhost:3000
 ```
 
 <div style='page-break-after: always'></div>
 
 ### <u>Technologies we used</u>
 
+- HTML
 - CSS
 - JavaScript
-- MongoDB
-- NodeJS
-- Express
-- EJS
+- ReactJs
+- Redux
+- Chakra UI
+- JSON
 
-All the data got stored in and called from <b>Mongo Atlas cloud database</b>.
+All the data got stored in and called from <b>JSON Server</b>.
 
 <div style='page-break-after: always'></div>
 
