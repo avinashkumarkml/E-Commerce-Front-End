@@ -1,4 +1,4 @@
-# E-COMMERCE WEB APPLICATION  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;    &nbsp;   &nbsp;   &nbsp;   &nbsp;    <img src="https://www.theory.com/on/demandware.static/Sites-theory2_US-Site/-/default/dwe2f8eb1f/images/favicons/favicon2.ico"/> 
+# E-COMMERCE WEB APPLICATION  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;    &nbsp;   &nbsp;   &nbsp;   &nbsp;   
 
 The goal of this project was to create a responsive E-commerce web application used for a user where the customer can buy a product.
 
