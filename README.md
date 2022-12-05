@@ -79,12 +79,12 @@ All the data got stored in and called from <b>JSON Server</b>.
 <p>The Payment Gateway page</p>
 <img src="https://cdn-images-1.medium.com/max/600/1*fNUM5mUYzTzKXTBkok87WQ.png"/>
 
-## Please do check out our Cloned Nike Website !
+## Please do check out our E-COMMERCE WEB APPLICATION !
 
 <h2>Contact</h2>
 
 If you want to contact me, you can reach me through below handle.
 
-[![linkedin](https://img.shields.io/badge/Manish-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-reddy-76063a222/)
+[![linkedin](https://img.shields.io/badge/Avinash-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/manish-reddy-76063a222/](https://www.linkedin.com/in/avinashdeveloper/))
 
 # Thank You :sparkling_heart:
