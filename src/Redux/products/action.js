@@ -27,7 +27,7 @@ const fetchData = (payload) => {
   return (dispatch) => {
     dispatch(fetchDataRequest());
 
-    Axios.get("https://e-commerce-production-8a61.up.railway.app/products", {
+    Axios.get("https://nutty-top-hat-clam.cyclic.app/products", {
       params: {
         ...payload,
       },
@@ -60,7 +60,7 @@ const getSingleProductFailure = (payload) => {
 
 const getSingleProduct = (id) => (dispatch) => {
   dispatch(getSingleProductRequest());
-  Axios.get(`https://e-commerce-production-8a61.up.railway.app/products/${id}`)
+  Axios.get(`https://nutty-top-hat-clam.cyclic.app/products/${id}`)
     .then((r) => dispatch(getSingleProductSuccess(r.data)))
     .catch((e) => dispatch(getSingleProductFailure(e.data)));
 };
@@ -89,7 +89,7 @@ const addProductCartFailure = (payload) => {
 
 const addProductCart = (product) => (dispatch) => {
   dispatch(addProductCartRequest());
-  Axios.post("https://e-commerce-production-8a61.up.railway.app/cart", product).then((r) =>
+  Axios.post("https://nutty-top-hat-clam.cyclic.app/cart", product).then((r) =>
     dispatch(addProductCartSuccess(r.data)).catch((e) =>
       dispatch(addProductCartFailure(e.data))
     )
@@ -121,7 +121,7 @@ const fetchCartFailure = (payload) => {
 
 const fetchCart = (payload) => (dispatch) => {
   dispatch(fetchCartRequest());
-  Axios.get("https://e-commerce-production-8a61.up.railway.app/cart").then((r) =>
+  Axios.get("https://nutty-top-hat-clam.cyclic.app/cart").then((r) =>
     dispatch(fetchCartSuccess(r.data)).catch((e) =>
       dispatch(fetchCartFailure(e.data))
     )
@@ -152,7 +152,7 @@ const deleteProductCartFailure = (payload) => {
 
 const deleteProductCart = (id) => (dispatch) => {
   dispatch(deleteProductCartRequest());
-  Axios.delete(`https://e-commerce-production-8a61.up.railway.app/cart/${id}`)
+  Axios.delete(`https://nutty-top-hat-clam.cyclic.app/cart/${id}`)
     .then((r) => {
       console.log(r.data);
       dispatch(deleteProductCartSuccess(r.data));
@@ -188,7 +188,7 @@ const addOrder = (payload) => (dispatch) => {
   for (let product of payload) {
     product &&
       orderPayload.push(
-        Axios.post("https://e-commerce-production-8a61.up.railway.app/orders", product)
+        Axios.post("https://nutty-top-hat-clam.cyclic.app/orders", product)
       );
   }
   Promise.all(orderPayload)
@@ -256,7 +256,7 @@ const fetchOrdersFailure = (payload) => {
 
 const fetchOrders = (payload) => (dispatch) => {
   dispatch(fetchOrdersRequest());
-  Axios.get("https://e-commerce-production-8a61.up.railway.app/orders").then((r) =>
+  Axios.get("https://nutty-top-hat-clam.cyclic.app/orders").then((r) =>
     dispatch(fetchOrdersSuccess(r.data)).catch((e) =>
       dispatch(fetchOrdersFailure(e.data))
     )
